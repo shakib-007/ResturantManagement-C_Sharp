@@ -1,0 +1,16 @@
+F:\c sharp\ResturantManagement\obj\Debug\ResturantManagement.csprojAssemblyReference.cache
+F:\c sharp\ResturantManagement\obj\Debug\ResturantManagement.Properties.Resources.resources
+F:\c sharp\ResturantManagement\obj\Debug\ResturantManagement.csproj.GenerateResource.cache
+F:\c sharp\ResturantManagement\obj\Debug\ResturantManagement.csproj.CoreCompileInputs.cache
+F:\c sharp\ResturantManagement\bin\Debug\ResturantManagement.exe.config
+F:\c sharp\ResturantManagement\bin\Debug\ResturantManagement.exe
+F:\c sharp\ResturantManagement\bin\Debug\ResturantManagement.pdb
+F:\c sharp\ResturantManagement\obj\Debug\ResturantManagement.exe
+F:\c sharp\ResturantManagement\obj\Debug\ResturantManagement.pdb
+F:\c sharp\ResturantManagement\obj\Debug\ResturantManagement.FormHome.resources
+F:\c sharp\ResturantManagement\obj\Debug\ResturantManagement.frmLogin.resources
+F:\c sharp\ResturantManagement\obj\Debug\ResturantManagement.FormOrder.resources
+F:\c sharp\ResturantManagement\obj\Debug\ResturantManagement.FormEmployee.resources
+F:\c sharp\ResturantManagement\obj\Debug\ResturantManagement.FormMenu.resources
+F:\c sharp\ResturantManagement\obj\Debug\ResturantManagement.FormReservation.resources
+F:\c sharp\ResturantManagement\obj\Debug\ResturantManagement.FormOrderId.resources
